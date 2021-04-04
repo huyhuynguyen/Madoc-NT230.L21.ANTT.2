@@ -1,0 +1,8 @@
+E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe.config
+E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.pdb
+E:\Ma_Doc\Lab1\BT3\BT3\BT3\obj\Debug\BT3.ProjectInstaller.resources
+E:\Ma_Doc\Lab1\BT3\BT3\BT3\obj\Debug\BT3.csproj.GenerateResource.cache
+E:\Ma_Doc\Lab1\BT3\BT3\BT3\obj\Debug\BT3.csproj.CoreCompileInputs.cache
+E:\Ma_Doc\Lab1\BT3\BT3\BT3\obj\Debug\BT3.exe
+E:\Ma_Doc\Lab1\BT3\BT3\BT3\obj\Debug\BT3.pdb

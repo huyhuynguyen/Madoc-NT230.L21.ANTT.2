@@ -1,0 +1,13 @@
+Service is started at 04/04/2021 11:30:07 SA
+Internet connection: OK ^-^ at 04/04/2021 11:30:08 SA
+Internet connection: OK ^-^ at 04/04/2021 11:30:13 SA
+Internet connection: OK ^-^ at 04/04/2021 11:30:18 SA
+Internet connection: OK ^-^ at 04/04/2021 11:30:23 SA
+Internet connection: Fail T-T at04/04/2021 11:30:28 SA
+Internet connection: Fail T-T at04/04/2021 11:30:33 SA
+Internet connection: Fail T-T at04/04/2021 11:30:38 SA
+Internet connection: OK ^-^ at 04/04/2021 11:30:43 SA
+Internet connection: OK ^-^ at 04/04/2021 11:30:48 SA
+Internet connection: OK ^-^ at 04/04/2021 11:30:53 SA
+Internet connection: OK ^-^ at 04/04/2021 11:30:58 SA
+Service is stopped at 04/04/2021 11:31:02 SA

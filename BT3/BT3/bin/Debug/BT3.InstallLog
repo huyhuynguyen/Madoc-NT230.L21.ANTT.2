@@ -1,0 +1,143 @@
+﻿Installing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing service UITServiceBT3...
+Service UITServiceBT3 has been successfully installed.
+Creating EventLog source UITServiceBT3 in log Application...
+Committing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing service UITServiceBT3...
+Service UITServiceBT3 has been successfully installed.
+Creating EventLog source UITServiceBT3 in log Application...
+Committing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing service UITServiceBT3...
+Service UITServiceBT3 has been successfully installed.
+Creating EventLog source UITServiceBT3 in log Application...
+Committing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing service UITServiceBT3...
+Service UITServiceBT3 has been successfully installed.
+Creating EventLog source UITServiceBT3 in log Application...
+Committing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing service UITServiceBT3...
+Service UITServiceBT3 has been successfully installed.
+Creating EventLog source UITServiceBT3 in log Application...
+Committing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing service UITServiceBT3...
+Service UITServiceBT3 has been successfully installed.
+Creating EventLog source UITServiceBT3 in log Application...
+Committing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing service UITServiceBT3...
+Service UITServiceBT3 has been successfully installed.
+Creating EventLog source UITServiceBT3 in log Application...
+Committing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing service UITServiceBT3...
+Service UITServiceBT3 has been successfully installed.
+Creating EventLog source UITServiceBT3 in log Application...
+Committing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
+Installing service UITServiceBT3...
+Service UITServiceBT3 has been successfully installed.
+Creating EventLog source UITServiceBT3 in log Application...
+Committing assembly 'E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = E:\Ma_Doc\Lab1\BT3\BT3\BT3\bin\Debug\BT3.exe
