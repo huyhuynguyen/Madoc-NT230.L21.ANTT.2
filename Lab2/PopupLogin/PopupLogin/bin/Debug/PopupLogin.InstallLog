@@ -1,0 +1,67 @@
+﻿Installing assembly 'C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.InstallLog
+   assemblypath = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe
+Rolling back assembly 'C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.InstallLog
+   assemblypath = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe
+Installing assembly 'C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.InstallLog
+   assemblypath = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe
+Installing service PopupLogin...
+Service PopupLogin has been successfully installed.
+Creating EventLog source PopupLogin in log Application...
+Committing assembly 'C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.InstallLog
+   assemblypath = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe
+Uninstalling assembly 'C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.InstallLog
+   assemblypath = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe
+Removing EventLog source PopupLogin.
+Service PopupLogin is being removed from the system...
+Service PopupLogin was successfully removed from the system.
+Attempt to stop service PopupLogin.
+Installing assembly 'C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.InstallLog
+   assemblypath = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe
+Installing service PopupLogin...
+Service PopupLogin has been successfully installed.
+Creating EventLog source PopupLogin in log Application...
+Committing assembly 'C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.InstallLog
+   assemblypath = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe
+Uninstalling assembly 'C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.InstallLog
+   assemblypath = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe
+Removing EventLog source PopupLogin.
+Service PopupLogin is being removed from the system...
+Service PopupLogin was successfully removed from the system.
+Attempt to stop service PopupLogin.
+Installing assembly 'C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.InstallLog
+   assemblypath = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe
+Installing service PopupLogin...
+Service PopupLogin has been successfully installed.
+Creating EventLog source PopupLogin in log Application...
+Committing assembly 'C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.InstallLog
+   assemblypath = C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe

@@ -1,0 +1,9 @@
+C:\Users\WIN10\Desktop\ChangeBackground\ChangeBackground\bin\Debug\ChangeBackground.exe.config
+C:\Users\WIN10\Desktop\ChangeBackground\ChangeBackground\bin\Debug\ChangeBackground.exe
+C:\Users\WIN10\Desktop\ChangeBackground\ChangeBackground\bin\Debug\ChangeBackground.pdb
+C:\Users\WIN10\Desktop\ChangeBackground\ChangeBackground\obj\Debug\ChangeBackground.csprojResolveAssemblyReference.cache
+C:\Users\WIN10\Desktop\ChangeBackground\ChangeBackground\obj\Debug\ChangeBackground.Hello.resources
+C:\Users\WIN10\Desktop\ChangeBackground\ChangeBackground\obj\Debug\ChangeBackground.Properties.Resources.resources
+C:\Users\WIN10\Desktop\ChangeBackground\ChangeBackground\obj\Debug\ChangeBackground.csproj.GenerateResource.Cache
+C:\Users\WIN10\Desktop\ChangeBackground\ChangeBackground\obj\Debug\ChangeBackground.exe
+C:\Users\WIN10\Desktop\ChangeBackground\ChangeBackground\obj\Debug\ChangeBackground.pdb

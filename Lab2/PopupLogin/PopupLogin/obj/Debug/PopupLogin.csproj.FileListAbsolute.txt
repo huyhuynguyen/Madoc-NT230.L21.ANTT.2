@@ -1,0 +1,7 @@
+C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe.config
+C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.exe
+C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\bin\Debug\PopupLogin.pdb
+C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\obj\Debug\PopupLogin.ProjectInstaller.resources
+C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\obj\Debug\PopupLogin.csproj.GenerateResource.Cache
+C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\obj\Debug\PopupLogin.exe
+C:\Users\WIN10\Desktop\PopupLogin\PopupLogin\obj\Debug\PopupLogin.pdb
